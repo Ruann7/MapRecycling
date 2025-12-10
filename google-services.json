@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937506831866",
+    "project_id": "maprecycling-b506d",
+    "storage_bucket": "maprecycling-b506d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937506831866:android:73f3a70051ed7eb63a3843",
+        "android_client_info": {
+          "package_name": "com.example.maprecycling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuH224x2IJEyn-4LhOBMamRMrpPajEw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
